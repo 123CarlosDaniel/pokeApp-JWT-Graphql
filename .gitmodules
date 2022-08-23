@@ -1,0 +1,9 @@
+[submodule "PokeMarketClient"]
+	path = PokeMarketClient
+	url = https://github.com/123CarlosDaniel/PokeMarketClient
+[submodule "Graphql-PokeApp"]
+	path = Graphql-PokeApp
+	url = https://github.com/123CarlosDaniel/Graphql-PokeApp
+[submodule "Authentication-JWT"]
+	path = Authentication-JWT
+	url = https://github.com/123CarlosDaniel/Authentication-JWT
